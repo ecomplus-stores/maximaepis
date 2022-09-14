@@ -1,7 +1,7 @@
 {
   "domain": "https://maximaepis.netlify.app/",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/banner-inicial.png",
   "name": "máxima epi",
-  "short_name": "maximaepis",
+  "short_name": "maxima epi",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -17,9 +17,9 @@
   "favicon": "/img/uploads/simbolo-maxima-final.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#808080",
+  "secondary_color": "#393e46",
   "icon": "/img/uploads/simbolo-maxima-final.png",
   "store_id": 2927,
-  "description": "maximaepis",
+  "description": "Somos a MÁXIMA, loja especializada em EPI e EPC - Equipamento de Proteção Individual e Coletiva além de ferramentas em geral. Buscamos ofertar produtos de qualidade comprovada com segurança e agilidade. ",
   "large_icon": "/img/uploads/simbolo-maxima-final.png"
 }
