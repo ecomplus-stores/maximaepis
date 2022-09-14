@@ -1,15 +1,15 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "MÁXIMA",
+    "text": "Somos a MÁXIMA, loja especializada em EPI e EPC - Equipamento de Proteção Individual e Coletiva além de ferramentas em geral. Buscamos ofertar produtos de qualidade comprovada com segurança e agilidade."
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Politicas de Trocas e Devoluções",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
