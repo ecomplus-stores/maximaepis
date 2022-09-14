@@ -1,27 +1,22 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Super ofertas o tempo todo - Até 50% de desconto - no Pix ou no Cartão em até 12x sem juros.  +55 75 98195-3443 7532652516",
+    "link": "",
+    "background": "#050505",
+    "color": "#ffd525"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }
