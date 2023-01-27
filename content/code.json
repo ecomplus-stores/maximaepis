@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "<meta name=\"google-site-verification\" content=\"tqJdHFa6eISPvI31kLeFjOPx7EHPNy5gT121v1OiNmE\" />",
+  "html_head": "<meta name=\"google-site-verification\" content=\"tqJdHFa6eISPvI31kLeFjOPx7EHPNy5gT121v1OiNmE\" />\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-P4H49HZ');</script>\n<!-- End Google Tag Manager -->",
   "html_body": ""
 }
