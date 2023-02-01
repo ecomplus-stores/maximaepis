@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "MÁXIMA",
-    "text": "Somos a MÁXIMA, loja especializada em EPI e EPC - Equipamento de Proteção Individual e Coletiva além de ferramentas em geral. Buscamos ofertar produtos de qualidade comprovada com segurança e agilidade."
+    "text": "Somos a MÁXIMA, loja especializada em EPI e EPC - Equipamento de Proteção Individual, Coletiva e ferramentas em geral. Buscamos ofertar produtos de qualidade comprovada com segurança e agilidade."
   },
   "links_1": {
     "list_pages": true,
@@ -30,16 +30,21 @@
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
-    "banrisul": false,
+    "aura": true,
+    "banrisul": true,
     "elo": true,
-    "hipercard": false,
-    "hsbc": false,
+    "hipercard": true,
+    "hsbc": true,
     "bradesco": true,
     "santander": false,
     "mastercard": true,
-    "citibank": false,
-    "mais": false,
+    "paypal": true,
+    "citibank": true,
+    "hiper": true,
+    "diners": true,
+    "mais": true,
+    "pix": true,
+    "amex": true,
     "itau": true
   },
   "credits": ""
