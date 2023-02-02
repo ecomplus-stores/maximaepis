@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "SOB CONSULTA",
+    "buyText": "",
     "buy": "",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": " ",
