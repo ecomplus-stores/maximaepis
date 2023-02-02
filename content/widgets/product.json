@@ -7,8 +7,8 @@
     "buy": "",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": " ",
-    "lowQuantityToWarn": 1,
-    "maxVariationOptionsBtns": 5,
+    "lowQuantityToWarn": 0,
+    "maxVariationOptionsBtns": 10,
     "quoteInfo": "comercial@maximaepis.com.br ou whatsapp 75981953443"
   }
 }
