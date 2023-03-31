@@ -9,7 +9,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "Política de troca e devoluções"
+    "text": "Política de troca e devoluções",
+    "link": "https://maximaepis.com.br/pages/trocas"
   },
   "promo": {
     "show": false,
