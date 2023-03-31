@@ -1,6 +1,13 @@
 {
   "title": "Condições de entrega",
-  "meta_title": "Condições de entrega",
-  "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "epi entregas",
+  "meta_description": "entregamos em todo brasil",
+  "body": "P﻿ara as vendas em nossa loja on-line a entrega é exclusiva pelos Correios.\n\n\n\nP﻿ara vendas diretas e em atacado através de nossos canais presencias trabalhamos no formato CIF ou FOB a depender da região e quando coueber por meio de negociação prévia.",
+  "sections": [
+    {
+      "type": "page-title",
+      "title": "Entrega segura",
+      "description": "Entregamos em todo o Brasil"
+    }
+  ]
 }
