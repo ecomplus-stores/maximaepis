@@ -6,7 +6,11 @@
     "color": "#ffd525"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Nosso Portfólio"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
