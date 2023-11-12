@@ -1,14 +1,16 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "NOSSO PORTFOLIO",
+  "meta_title": "Nosso Portfolio",
+  "meta_description": "Nosso Portfolio",
   "sections": [
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Nosso Portfolio",
+      "description": "Nosso Portfolio"
     },
     {
       "type": "blog",
