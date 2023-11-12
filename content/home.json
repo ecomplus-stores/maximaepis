@@ -3,6 +3,10 @@
   "meta_description": "loja de epi e epc",
   "sections": [
     {
+      "type": "blog",
+      "enabled": false
+    },
+    {
       "type": "banner-slider",
       "autoplay": 10000,
       "full_width": true,
@@ -52,10 +56,6 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
