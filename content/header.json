@@ -8,7 +8,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Nosso Portfólio"
+        "title": "Nosso Portfólio",
+        "link": "maximaepis.com.br/blog"
       }
     ],
     "phone_wpp": true,
