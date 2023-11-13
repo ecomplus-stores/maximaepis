@@ -40,7 +40,7 @@
     "mastercard": true,
     "paypal": true,
     "citibank": true,
-    "hiper": false,
+    "hiper": true,
     "diners": true,
     "mais": true,
     "pix": true,
