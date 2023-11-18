@@ -1,0 +1,17 @@
+{
+  "date": "",
+  "title": "NOSSOS PRODUTOS",
+  "description": "Neste espaço apresentaremos para você como nossos produtos estão classificados e organizados em categoria. Cada parte de seu corpo requer uma proteção especifica com o EPI apropriado, desta forma nossas categorias se dão por essas divisões. ",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60c7c154641ad82fcc28a674:categories:PROTEÇÃO FACIAL E CABEÇA - Capacetes e acessórios:/protecao-facial-e-cabeca--capacetes-e-acessorios",
+      "sort": "slug",
+      "title": "PROTEÇÃO FACIAL E CABEÇA",
+      "autoplay": 0
+    }
+  ]
+}
