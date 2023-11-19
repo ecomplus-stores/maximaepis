@@ -9,7 +9,7 @@
       "limit": 6,
       "page": 1,
       "collection_id": "60c7c154641ad82fcc28a674:categories:PROTEÇÃO FACIAL E CABEÇA - Capacetes e acessórios:/protecao-facial-e-cabeca--capacetes-e-acessorios",
-      "sort": "slug",
+      "sort": null,
       "autoplay": 1000,
       "headless": false
     }
