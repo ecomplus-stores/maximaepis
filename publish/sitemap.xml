@@ -1148,13 +1148,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//admin/index</loc>
+      <loc>https://https://maximaepis.netlify.app//app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//app/index</loc>
+      <loc>https://https://maximaepis.netlify.app//admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
