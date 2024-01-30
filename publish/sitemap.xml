@@ -1022,6 +1022,12 @@
     </url>
   
     <url>
+      <loc>https://https://maximaepis.netlify.app//pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://maximaepis.netlify.app//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1029,12 +1035,6 @@
   
     <url>
       <loc>https://https://maximaepis.netlify.app//pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://maximaepis.netlify.app//pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1082,13 +1082,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-auditiva</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-para-as-maos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-para-as-maos</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-auditiva</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
