@@ -37,7 +37,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "offers"
+      "sort": "slug"
     },
     {
       "type": "info-bar",
