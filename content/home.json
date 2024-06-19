@@ -40,11 +40,6 @@
       "sort": "slug"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": null
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
