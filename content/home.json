@@ -41,8 +41,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "slug"
+      "load_more": false,
+      "sort": null
     },
     {
       "type": "info-bar",
