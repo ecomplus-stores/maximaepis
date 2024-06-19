@@ -36,17 +36,17 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "slug"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "brands-carousel",
