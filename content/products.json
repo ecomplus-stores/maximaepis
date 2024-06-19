@@ -13,6 +13,10 @@
       }
     },
     {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
@@ -22,10 +26,6 @@
     },
     {
       "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
       "enabled": true
     }
   ]
