@@ -1076,13 +1076,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/privacidade</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1130,19 +1130,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-respiratoria</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://maximaepis.netlify.app//posts/protecao-visual</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/sinalizacao-e-outros</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-respiratoria</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1154,7 +1148,19 @@
     </url>
   
     <url>
+      <loc>https://https://maximaepis.netlify.app//posts/sinalizacao-e-outros</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://maximaepis.netlify.app//404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://maximaepis.netlify.app//blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1163,12 +1169,6 @@
       <loc>https://https://maximaepis.netlify.app//</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://maximaepis.netlify.app//blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
