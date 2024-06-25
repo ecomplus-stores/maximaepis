@@ -1082,13 +1082,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/termos</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1130,13 +1130,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-respiratoria</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-visual</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-visual</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-respiratoria</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1178,6 +1178,12 @@
     </url>
   
     <url>
+      <loc>https://https://maximaepis.netlify.app//admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://https://maximaepis.netlify.app//app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -1187,12 +1193,6 @@
       <loc>https://https://maximaepis.netlify.app//maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://maximaepis.netlify.app//admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
