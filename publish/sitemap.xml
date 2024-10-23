@@ -854,6 +854,12 @@
     </url>
   
     <url>
+      <loc>https://https://maximaepis.netlify.app//kit-cinta-arraste-5000-kg-robustec-rca-13103</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://https://maximaepis.netlify.app//protecao-para-os-pes---calcados</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1142,13 +1148,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//admin/index</loc>
+      <loc>https://https://maximaepis.netlify.app//app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//app/index</loc>
+      <loc>https://https://maximaepis.netlify.app//admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
