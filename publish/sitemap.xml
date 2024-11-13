@@ -1052,7 +1052,7 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/faq</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1064,13 +1064,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/privacidade</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
