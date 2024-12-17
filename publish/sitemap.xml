@@ -602,12 +602,6 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//luva-em-raspa-com-forracao-termica-para-soldador-punho-20-cm---marfe-ca-6722</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://https://maximaepis.netlify.app//ponteira-de-protecao-para-vergalhao-de-14-a-1-polegada-pacote-com-25-unidades</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -986,13 +980,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/pagamentos</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/faq</loc>
+      <loc>https://https://maximaepis.netlify.app//pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
