@@ -908,19 +908,25 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://maximaepis.netlify.app//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://https://maximaepis.netlify.app//pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://maximaepis.netlify.app//pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -938,25 +944,19 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://maximaepis.netlify.app//posts/esta-loja-e-um-progressive-web-app-1</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-auditiva</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/nossos-produtos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/nossos-produtos</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-auditiva</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -980,13 +980,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/sinalizacao-e-outros</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-visual</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-visual</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/sinalizacao-e-outros</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
