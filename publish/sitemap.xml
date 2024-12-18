@@ -962,12 +962,6 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://maximaepis.netlify.app//pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -975,6 +969,12 @@
   
     <url>
       <loc>https://https://maximaepis.netlify.app//pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://maximaepis.netlify.app//pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1010,13 +1010,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-para-os-pes-calcados</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-respiratoria</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/protecao-respiratoria</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/protecao-para-os-pes-calcados</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1028,13 +1028,13 @@
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/sinalizacao-e-outros</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/trabalho-em-altura</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://maximaepis.netlify.app//posts/trabalho-em-altura</loc>
+      <loc>https://https://maximaepis.netlify.app//posts/sinalizacao-e-outros</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
