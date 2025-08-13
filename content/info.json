@@ -1,11 +1,12 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete GRÁTIS nas compras acima de R$600,00 - Produtos com Frete 100% grátis"
+    "text": "Alguns produtos com Frete 100% grátis",
+    "title": "Frete GRÁTIS nas compras acima de R$600,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele tudo em até 12 vezes"
+    "text": "Parcelas que cabem no seu orçamento"
   },
   "exchange": {
     "show": true,
