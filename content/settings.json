@@ -7,10 +7,10 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/banner-inicial.png",
-  "name": "MÁXIMA EPI & FERRAMENTAS",
-  "short_name": "MÁXIMA EPI",
   "repository": "ecomplus-stores/maximaepis",
+  "logo": "/img/uploads/banner-inicial.png",
+  "name": "MÁXIMA EPI & ELETRICA",
+  "short_name": "MÁXIMA EPI",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/simbolo-maxima-final.png",
   "store_id": 2927,
-  "description": "Somos a MÁXIMA EPI, loja especializada em EPI e EPC - Equipamento de Proteção Individual e Coletiva além de ferramentas em geral. Buscamos ofertar produtos de qualidade comprovada com segurança e agilidade.",
+  "description": "Somos a MÁXIMA EPI e Elétrica, loja fisica e online,  especializada em EPI - Equipamentos de Proteção Individual e Coletiva, matérial elétrico, suprimentos e acessórios pra soldas, cargas além de ferramentas em geral. Buscamos ofertar produtos de qualidade comprovada com segurança e agilidade.",
   "large_icon": "/img/uploads/simbolo-maxima-final.png"
 }
